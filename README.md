@@ -1,5 +1,5 @@
 # CKAD-training
-Helpful tips to get your CKAD (Certified Kubernetes Application Developer).
+Helpful tips to get your [CKAD, Certified Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/).
 
 ## First step, learn Kubernetes
 Take a course, or do it on your own. [Kubernetes for Developers (LFD259)](https://training.linuxfoundation.org/training/kubernetes-for-developers/) by the Linux Foundation is great. If your are new to Kubernetes you perhaps want to start with [Introduction to Kubernetes (LFS158x)](https://training.linuxfoundation.org/training/introduction-to-kubernetes/), it's free and a great place to start.
